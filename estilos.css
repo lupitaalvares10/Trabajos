@@ -1,0 +1,32 @@
+header{
+    background-color: #c08552;
+}
+
+.nosotros{
+    text-align: justify;
+    line-height: 2em;
+}
+
+.carousel-item img {
+    width: 50%;
+}
+
+.custom-bg {
+    background-color: #dda15e; 
+}
+
+.btn-cafe {
+    color: #fff;
+    background-color: #d4a373; 
+    border-color: #7B5741; 
+}
+
+.btn-cafe:hover {
+    color: #fff;
+    background-color: #6B4733; 
+    border-color: #6B4733; 
+}
+
+.mi-formulario {
+    background-color: #d4a373; 
+  }
